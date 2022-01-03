@@ -27,7 +27,7 @@
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) --> 
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
