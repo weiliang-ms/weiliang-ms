@@ -67,11 +67,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34378](https://github.com/gatsbyjs/gatsby/pull/34378) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. ❗️ Opened issue [#886](https://github.com/EddieHubCommunity/LinkFree/issues/886) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#885](https://github.com/EddieHubCommunity/LinkFree/pull/885) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❗️ Opened issue [#6993](https://github.com/simple-icons/simple-icons/issues/6993) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 💪 Opened PR [#39](https://github.com/hoppscotch/docs/pull/39) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+1. 🎉 Merged PR [#18](https://github.com/weiliang-ms/easyctl/pull/18) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+2. 🎉 Merged PR [#19](https://github.com/weiliang-ms/easyctl/pull/19) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+3. 🗣 Commented on [#17](https://github.com/weiliang-ms/easyctl/issues/17) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+4. ❌ Closed PR [#17](https://github.com/weiliang-ms/easyctl/pull/17) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+5. 🎉 Merged PR [#15](https://github.com/weiliang-ms/easyctl/pull/15) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
 <!--END_SECTION:activity-->
 
 
