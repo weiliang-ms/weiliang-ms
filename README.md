@@ -12,9 +12,7 @@
 
  🔭 I’m currently exploring the world of Open Source. <br/>
  :space_invader: I’m looking forward to contribute to **Open Source Projects**.<br/>
- 👨‍💻 I’m currently learning  ReactJs,hugo web development, opensource frameworks and trying out Web Development.<br/>
- 💻 I'm currently contributing on [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-120078.svg?\&style=plastic\&logo=hoppscotch\&logoColor=31C48D)</br>
- 🥇 Contributed in the [![TwilioTalon](https://img.shields.io/badge/Twilio%20Talon-navy?style=plastic&logo=twilio)](https://github.com/TwilioQuest/talon)program designed to send Twilio developers  code to space. [see my code on space](https://drive.google.com/file/d/1zF8x--A3_6KCpTKJ0QUyD2_ZnO-SCJjh/view)
+ 👨‍💻 I’m currently learning  container,docker and kubernetes.<br/>
 
  <br/>
 
