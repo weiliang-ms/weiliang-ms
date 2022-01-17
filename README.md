@@ -48,11 +48,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/weiliang-ms/easyctl/pull/18) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-2. 🎉 Merged PR [#19](https://github.com/weiliang-ms/easyctl/pull/19) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-3. 🗣 Commented on [#17](https://github.com/weiliang-ms/easyctl/issues/17) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-4. ❌ Closed PR [#17](https://github.com/weiliang-ms/easyctl/pull/17) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-5. 🎉 Merged PR [#15](https://github.com/weiliang-ms/easyctl/pull/15) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+1. 🗣 Commented on [#1](https://github.com/weiliang-ms/nginx/issues/1) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
+2. 🎉 Merged PR [#18](https://github.com/weiliang-ms/easyctl/pull/18) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+3. 🎉 Merged PR [#19](https://github.com/weiliang-ms/easyctl/pull/19) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+4. 🗣 Commented on [#17](https://github.com/weiliang-ms/easyctl/issues/17) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+5. ❌ Closed PR [#17](https://github.com/weiliang-ms/easyctl/pull/17) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
 <!--END_SECTION:activity-->
 
 
