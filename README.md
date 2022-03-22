@@ -48,11 +48,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#531](https://github.com/kubesphere/ks-installer/issues/531) in [kubesphere/ks-installer](https://github.com/kubesphere/ks-installer)
-2. 🗣 Commented on [#540](https://github.com/kubesphere/kubekey/issues/540) in [kubesphere/kubekey](https://github.com/kubesphere/kubekey)
-3. 🗣 Commented on [#1](https://github.com/weiliang-ms/nginx/issues/1) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
-4. 🎉 Merged PR [#18](https://github.com/weiliang-ms/easyctl/pull/18) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-5. 🎉 Merged PR [#19](https://github.com/weiliang-ms/easyctl/pull/19) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+1. 🎉 Merged PR [#1](https://github.com/weiliang-ms/sonar-pmd-p3c-chinese/pull/1) in [weiliang-ms/sonar-pmd-p3c-chinese](https://github.com/weiliang-ms/sonar-pmd-p3c-chinese)
+2. 💪 Opened PR [#1](https://github.com/weiliang-ms/sonar-pmd-p3c-chinese/pull/1) in [weiliang-ms/sonar-pmd-p3c-chinese](https://github.com/weiliang-ms/sonar-pmd-p3c-chinese)
+3. ❗️ Closed issue [#531](https://github.com/kubesphere/ks-installer/issues/531) in [kubesphere/ks-installer](https://github.com/kubesphere/ks-installer)
+4. 🗣 Commented on [#540](https://github.com/kubesphere/kubekey/issues/540) in [kubesphere/kubekey](https://github.com/kubesphere/kubekey)
+5. 🗣 Commented on [#1](https://github.com/weiliang-ms/nginx/issues/1) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
 <!--END_SECTION:activity-->
 
 
