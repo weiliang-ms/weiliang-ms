@@ -48,11 +48,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/archguard/archguard/issues/53) in [archguard/archguard](https://github.com/archguard/archguard)
-2. 🎉 Merged PR [#1](https://github.com/weiliang-ms/sonar-pmd-p3c-chinese/pull/1) in [weiliang-ms/sonar-pmd-p3c-chinese](https://github.com/weiliang-ms/sonar-pmd-p3c-chinese)
-3. 💪 Opened PR [#1](https://github.com/weiliang-ms/sonar-pmd-p3c-chinese/pull/1) in [weiliang-ms/sonar-pmd-p3c-chinese](https://github.com/weiliang-ms/sonar-pmd-p3c-chinese)
-4. ❗️ Closed issue [#531](https://github.com/kubesphere/ks-installer/issues/531) in [kubesphere/ks-installer](https://github.com/kubesphere/ks-installer)
-5. 🗣 Commented on [#540](https://github.com/kubesphere/kubekey/issues/540) in [kubesphere/kubekey](https://github.com/kubesphere/kubekey)
+1. 🎉 Merged PR [#24](https://github.com/weiliang-ms/easyctl/pull/24) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+2. 🎉 Merged PR [#22](https://github.com/weiliang-ms/easyctl/pull/22) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+3. 🎉 Merged PR [#27](https://github.com/weiliang-ms/easyctl/pull/27) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+4. 🎉 Merged PR [#25](https://github.com/weiliang-ms/easyctl/pull/25) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+5. 🎉 Merged PR [#28](https://github.com/weiliang-ms/easyctl/pull/28) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
 <!--END_SECTION:activity-->
 
 
