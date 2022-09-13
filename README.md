@@ -48,8 +48,8 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/weiliang-ms/nginx/issues/1) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
-2. 🎉 Merged PR [#30](https://github.com/weiliang-ms/easyctl/pull/30) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+1. ❗️ Opened issue [#2101](https://github.com/kubesphere/ks-installer/issues/2101) in [kubesphere/ks-installer](https://github.com/kubesphere/ks-installer)
+2. ❗️ Closed issue [#1](https://github.com/weiliang-ms/nginx/issues/1) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
 3. 🎉 Merged PR [#29](https://github.com/weiliang-ms/easyctl/pull/29) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
 4. 🎉 Merged PR [#24](https://github.com/weiliang-ms/easyctl/pull/24) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
 5. 🎉 Merged PR [#22](https://github.com/weiliang-ms/easyctl/pull/22) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
