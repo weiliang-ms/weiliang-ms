@@ -48,11 +48,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2101](https://github.com/kubesphere/ks-installer/issues/2101) in [kubesphere/ks-installer](https://github.com/kubesphere/ks-installer)
-2. ❗️ Opened issue [#2101](https://github.com/kubesphere/ks-installer/issues/2101) in [kubesphere/ks-installer](https://github.com/kubesphere/ks-installer)
-3. 🎉 Merged PR [#29](https://github.com/weiliang-ms/easyctl/pull/29) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-4. 🎉 Merged PR [#24](https://github.com/weiliang-ms/easyctl/pull/24) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-5. 🎉 Merged PR [#22](https://github.com/weiliang-ms/easyctl/pull/22) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+1. 🎉 Merged PR [#43](https://github.com/weiliang-ms/easyctl/pull/43) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+2. 🎉 Merged PR [#37](https://github.com/weiliang-ms/easyctl/pull/37) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+3. 🎉 Merged PR [#34](https://github.com/weiliang-ms/easyctl/pull/34) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+4. 🎉 Merged PR [#47](https://github.com/weiliang-ms/easyctl/pull/47) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+5. ❗️ Closed issue [#2101](https://github.com/kubesphere/ks-installer/issues/2101) in [kubesphere/ks-installer](https://github.com/kubesphere/ks-installer)
 <!--END_SECTION:activity-->
 
 
