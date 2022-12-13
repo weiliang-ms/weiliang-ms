@@ -52,7 +52,7 @@
 2. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
 3. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
 4. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
-5. 💪 Opened PR [#46](https://github.com/kubesphere/s2irun/pull/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
+5. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
 <!--END_SECTION:activity-->
 
 
