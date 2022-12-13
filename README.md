@@ -49,10 +49,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
-2. 💪 Opened PR [#46](https://github.com/kubesphere/s2irun/pull/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
-3. 🎉 Merged PR [#43](https://github.com/weiliang-ms/easyctl/pull/43) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-4. 🎉 Merged PR [#37](https://github.com/weiliang-ms/easyctl/pull/37) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-5. 🎉 Merged PR [#34](https://github.com/weiliang-ms/easyctl/pull/34) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+2. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
+3. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
+4. 💪 Opened PR [#46](https://github.com/kubesphere/s2irun/pull/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
+5. 🎉 Merged PR [#43](https://github.com/weiliang-ms/easyctl/pull/43) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
 <!--END_SECTION:activity-->
 
 
