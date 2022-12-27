@@ -48,7 +48,7 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
+1. 🎉 Merged PR [#52](https://github.com/weiliang-ms/easyctl/pull/52) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
 2. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
 3. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
 4. 🗣 Commented on [#46](https://github.com/kubesphere/s2irun/issues/46) in [kubesphere/s2irun](https://github.com/kubesphere/s2irun)
