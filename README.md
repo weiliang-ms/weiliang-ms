@@ -48,11 +48,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/weiliang-ms/easyctl/issues/86#issuecomment-1707709418) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-2. 🗣 Commented on [#86](https://github.com/weiliang-ms/easyctl/issues/86#issuecomment-1707709247) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
-3. 🗣 Commented on [#16](https://github.com/kubesphere/s2i-java-runtimeImage/pull/16#issuecomment-1687586112) in [kubesphere/s2i-java-runtimeImage](https://github.com/kubesphere/s2i-java-runtimeImage)
-4. 🗣 Commented on [#16](https://github.com/kubesphere/s2i-java-runtimeImage/pull/16#issuecomment-1687583710) in [kubesphere/s2i-java-runtimeImage](https://github.com/kubesphere/s2i-java-runtimeImage)
-5. 💪 Opened PR [#16](https://github.com/kubesphere/s2i-java-runtimeImage/pull/16) in [kubesphere/s2i-java-runtimeImage](https://github.com/kubesphere/s2i-java-runtimeImage)
+1. 🚀 Published release [Release v0.8.3](https://github.com/weiliang-ms/easyctl/releases/tag/v0.8.3) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+2. 🗣 Commented on [#86](https://github.com/weiliang-ms/easyctl/issues/86#issuecomment-1707709418) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+3. 🗣 Commented on [#86](https://github.com/weiliang-ms/easyctl/issues/86#issuecomment-1707709247) in [weiliang-ms/easyctl](https://github.com/weiliang-ms/easyctl)
+4. 🗣 Commented on [#16](https://github.com/kubesphere/s2i-java-runtimeImage/pull/16#issuecomment-1687586112) in [kubesphere/s2i-java-runtimeImage](https://github.com/kubesphere/s2i-java-runtimeImage)
+5. 🗣 Commented on [#16](https://github.com/kubesphere/s2i-java-runtimeImage/pull/16#issuecomment-1687583710) in [kubesphere/s2i-java-runtimeImage](https://github.com/kubesphere/s2i-java-runtimeImage)
 <!--END_SECTION:activity-->
 
 
