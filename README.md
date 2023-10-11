@@ -48,11 +48,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1729069643) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
-2. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1728980938) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
-3. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1728675469) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
-4. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1728633072) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
-5. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1727292220) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
+1. 💪 Opened PR [#2](https://github.com/AlphaHinex/hf-models/pull/2) in [AlphaHinex/hf-models](https://github.com/AlphaHinex/hf-models)
+2. 💪 Opened PR [#1](https://github.com/AlphaHinex/hf-models/pull/1) in [AlphaHinex/hf-models](https://github.com/AlphaHinex/hf-models)
+3. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1729069643) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
+4. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1728980938) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
+5. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1728675469) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
 <!--END_SECTION:activity-->
 
 
