@@ -48,8 +48,8 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.5](https://github.com/weiliang-ms/nginx/releases/tag/v1.1.5) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
-2. 💪 Opened PR [#3](https://github.com/AlphaHinex/hf-models/pull/3) in [AlphaHinex/hf-models](https://github.com/AlphaHinex/hf-models)
+1. 🚀 Published release [v1.1.6](https://github.com/weiliang-ms/nginx/releases/tag/v1.1.6) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
+2. 🚀 Published release [v1.1.5](https://github.com/weiliang-ms/nginx/releases/tag/v1.1.5) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
 3. 💪 Opened PR [#2](https://github.com/AlphaHinex/hf-models/pull/2) in [AlphaHinex/hf-models](https://github.com/AlphaHinex/hf-models)
 4. 💪 Opened PR [#1](https://github.com/AlphaHinex/hf-models/pull/1) in [AlphaHinex/hf-models](https://github.com/AlphaHinex/hf-models)
 5. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1729069643) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
