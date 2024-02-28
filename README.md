@@ -48,11 +48,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6047](https://github.com/kubesphere/kubesphere/issues/6047#issuecomment-1966103792) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
-2. ❗ Opened issue [#138](https://github.com/kubesphere-sigs/ks-devops-helm-chart/issues/138) in [kubesphere-sigs/ks-devops-helm-chart](https://github.com/kubesphere-sigs/ks-devops-helm-chart)
-3. 🚀 Published release [v1.1.6](https://github.com/weiliang-ms/nginx/releases/tag/v1.1.6) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
-4. 🚀 Published release [v1.1.5](https://github.com/weiliang-ms/nginx/releases/tag/v1.1.5) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
-5. 🗣 Commented on [#5920](https://github.com/kubesphere/kubesphere/issues/5920#issuecomment-1729069643) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
+1. 🗣 Commented on [#6047](https://github.com/kubesphere/kubesphere/issues/6047#issuecomment-1968128305) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
+2. 🗣 Commented on [#6047](https://github.com/kubesphere/kubesphere/issues/6047#issuecomment-1966103792) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
+3. ❗ Opened issue [#138](https://github.com/kubesphere-sigs/ks-devops-helm-chart/issues/138) in [kubesphere-sigs/ks-devops-helm-chart](https://github.com/kubesphere-sigs/ks-devops-helm-chart)
+4. 🚀 Published release [v1.1.6](https://github.com/weiliang-ms/nginx/releases/tag/v1.1.6) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
+5. 🚀 Published release [v1.1.5](https://github.com/weiliang-ms/nginx/releases/tag/v1.1.5) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
 <!--END_SECTION:activity-->
 
 
