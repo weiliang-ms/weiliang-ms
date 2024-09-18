@@ -48,7 +48,7 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.8](https://github.com/weiliang-ms/nginx/releases/tag/v1.2.8) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
+1. ❗ Opened issue [#150](https://github.com/archguard/archguard/issues/150) in [archguard/archguard](https://github.com/archguard/archguard)
 2. 🚀 Published release [v1.2.7](https://github.com/weiliang-ms/nginx/releases/tag/v1.2.7) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
 3. 🚀 Published release [v1.2.3](https://github.com/weiliang-ms/nginx/releases/tag/v1.2.3) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
 4. 🚀 Published release [v1.2.1](https://github.com/weiliang-ms/nginx/releases/tag/v1.2.1) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
