@@ -48,9 +48,9 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#150](https://github.com/archguard/archguard/issues/150) in [archguard/archguard](https://github.com/archguard/archguard)
-2. 🚀 Published release [v1.2.7](https://github.com/weiliang-ms/nginx/releases/tag/v1.2.7) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
-3. 🚀 Published release [v1.2.3](https://github.com/weiliang-ms/nginx/releases/tag/v1.2.3) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
+1. ❗ Opened issue [#3444](https://github.com/togettoyou/hub-mirror/issues/3444) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
+2. ❗ Opened issue [#3443](https://github.com/togettoyou/hub-mirror/issues/3443) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
+3. ❗ Opened issue [#150](https://github.com/archguard/archguard/issues/150) in [archguard/archguard](https://github.com/archguard/archguard)
 4. 🚀 Published release [v1.2.1](https://github.com/weiliang-ms/nginx/releases/tag/v1.2.1) in [weiliang-ms/nginx](https://github.com/weiliang-ms/nginx)
 5. 🔒 Closed issue [#138](https://github.com/kubesphere-sigs/ks-devops-helm-chart/issues/138) in [kubesphere-sigs/ks-devops-helm-chart](https://github.com/kubesphere-sigs/ks-devops-helm-chart)
 <!--END_SECTION:activity-->
