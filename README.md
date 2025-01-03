@@ -48,11 +48,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3624](https://github.com/togettoyou/hub-mirror/issues/3624) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
-2. ❗ Opened issue [#3587](https://github.com/togettoyou/hub-mirror/issues/3587) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
-3. ❗ Opened issue [#3444](https://github.com/togettoyou/hub-mirror/issues/3444) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
-4. ❗ Opened issue [#3443](https://github.com/togettoyou/hub-mirror/issues/3443) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
-5. 🔒 Closed issue [#138](https://github.com/kubesphere-sigs/ks-devops-helm-chart/issues/138) in [kubesphere-sigs/ks-devops-helm-chart](https://github.com/kubesphere-sigs/ks-devops-helm-chart)
+1. ❗ Opened issue [#1](https://github.com/weiliang-ms/hub-mirror/issues/1) in [weiliang-ms/hub-mirror](https://github.com/weiliang-ms/hub-mirror)
+2. ❗ Opened issue [#3624](https://github.com/togettoyou/hub-mirror/issues/3624) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
+3. ❗ Opened issue [#3587](https://github.com/togettoyou/hub-mirror/issues/3587) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
+4. ❗ Opened issue [#3444](https://github.com/togettoyou/hub-mirror/issues/3444) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
+5. ❗ Opened issue [#3443](https://github.com/togettoyou/hub-mirror/issues/3443) in [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)
 <!--END_SECTION:activity-->
 
 
